@@ -20,4 +20,13 @@ public class ReplaceChar {
     }
 
 
+    /*
+    public static int hexToDecimal(String hex){
+
+
+
+    }
+     */
+
+
 }
